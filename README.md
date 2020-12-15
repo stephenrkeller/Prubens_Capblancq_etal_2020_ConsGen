@@ -1,6 +1,4 @@
-# Prubens_Capblancq_etal_2020_ConsGen
-
-### Genomic drivers of early-life fitness in Picea rubens
+## Genomic drivers of early-life fitness in Picea rubens
 
 ----------------------
 
